@@ -1064,10 +1064,6 @@ footer .credits a {
   color: #fff;
 }
 
-.banner{
-  position: relative;width: 90%;margin: 0 auto;
-}
-
 .heading2{
-  color: white; position: absolute; top: 50%; width: 100%; text-align: center;
+  color: white; position:absolute; left: 35%; top: 300px; text-align: center; background-color: rgb(255, 167, 38);padding: 1rem; width: 30%; 
 }
