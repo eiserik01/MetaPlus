@@ -105,6 +105,11 @@ main {
 # Navigation Menu
 --------------------------------------------------------------*/
 
+.logo img{
+  position: absolute;
+  width: auto;
+  height:0%
+}
 .navbar {
   padding: 0;
 }
