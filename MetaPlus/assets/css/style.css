@@ -203,6 +203,16 @@ footer .credits a {
   color: #fff;
 }
 
-.heading2{
-  color: white; position:absolute; left: 35%; top: 300px; text-align: center; background-color: rgb(255, 167, 38);padding: 1rem; width: 30%; 
+.heading2 {
+  color: white; position:absolute; top: 250px; text-align: center; background-color: rgb(255, 167, 38);padding: 1rem; width: 30%;left: 35%; 
+}
+
+@media (max-width: 875px) {
+  .heading2{
+    color: rgb(255, 255, 255); position: sticky;width: 100%;left: 0%; margin: 0%;
+  }
+}
+
+.podnadpisMetaPlus{
+  background-color: dark;
 }
